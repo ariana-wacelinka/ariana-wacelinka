@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | Angular + Spring Boot 💖</h3>
 
 <p align="center">
-  <img src="./assets/pixel-me.png" width="200"/>
+  <img src="./assets/pixel-me.png" width="25"/>
 </p>
 
 <p align="center">
