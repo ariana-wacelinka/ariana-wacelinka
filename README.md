@@ -24,15 +24,15 @@
 
 ## 💻 Tech Stack
 
-### 🎨 Frontend
+### 🎨 Frontend & Tools
 <p align="center">
   <img src="https://cdn.simpleicons.org/angular/ff0088" height="48"/>
-  <img src="https://skillicons.dev/icons?i=flutter,react,ts,js&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flutter,react,ts,js,figma&theme=dark" />
 </p>
 
 ### ⚙️ Backend & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,dotnet,postgres,docker,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,dotnet,postgres,docker&theme=dark" />
 </p>
 
 
