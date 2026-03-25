@@ -6,26 +6,28 @@
 </p>
 
 <p align="center">
-  🌸 Building beautiful & scalable interfaces <br/>
-  💻 Angular • Flutter • React <br/>
-  ✨ UX lover & clean architecture enthusiast
+  🌸 Building scalable applications from UI to backend integration <br/>
+  💻 Angular • Flutter • React + API integration <br/>
+  ✨ UX lover + scalable and maintainable code
 </p>
 
 
 ## 🌸 About me
 
 - 🎓 Systems Engineering Student (UTN)
-- 💻 Frontend Developer specialized in Angular & Flutter
-- 🧠 Strong understanding of backend & system architecture
-- 🎨 Passionate about UI/UX and clean design systems
-- 🚀 Currently building scalable and maintainable apps
-
+- 💻 Full Stack Developer with strong frontend focus (Angular)
+- 🧠 Experience in system analysis, modeling and architecture design
+- ⚙️ Integration with backend services (Spring Boot, REST, Auth flows)
+- 🔐 Worked with authentication, payments and external service integrations
+- 🎨 Passionate about UI/UX and building maintainable interfaces
+- 🚀 Currently building scalable and well-structured applications
 
 ## 💻 Tech Stack
 
 ### 🎨 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,flutter,react,ts,js&theme=dark" />
+  <img src="https://cdn.simpleicons.org/angular/ff0088" height="48"/>
+  <img src="https://skillicons.dev/icons?i=flutter,react,ts,js&theme=dark" />
 </p>
 
 ### ⚙️ Backend & Tools
