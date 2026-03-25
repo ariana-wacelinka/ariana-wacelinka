@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ariana</h1>
-<h3 align="center">Frontend Developer | Angular & Flutter 💖</h3>
+<h3 align="center">Full Stack Developer | Angular + Spring Boot 💖</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="180"/>
+  <img src="./assets/pixel-me.png" width="200"/>
 </p>
 
 <p align="center">
@@ -11,7 +11,6 @@
   ✨ UX lover & clean architecture enthusiast
 </p>
 
----
 
 ## 🌸 About me
 
@@ -21,23 +20,19 @@
 - 🎨 Passionate about UI/UX and clean design systems
 - 🚀 Currently building scalable and maintainable apps
 
----
 
 ## 💻 Tech Stack
 
+### 🎨 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,flutter,react,ts,js,java,spring,figma,postgres,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=angular,flutter,react,ts,js&theme=dark" />
 </p>
 
----
-
-## 🦖 Dino vibes
-
+### ⚙️ Backend & Tools
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/files/main/dino.gif" width="500"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,dotnet,postgres,docker,figma&theme=dark" />
 </p>
 
----
 
 ## 📊 GitHub Stats
 
@@ -49,20 +44,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ariana-wacelinka&theme=radical" />
 </p>
 
----
-
-## ✨ Fun animation
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;UI/UX+Lover;Angular+Enthusiast;Clean+Code+Advocate&center=true&width=500&height=50&color=ff69b4">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Development;Angular+Architecture;Backend+Integration;Clean+Code+Practices&center=true&width=500&height=50&color=ff69b4">
 </p>
-
----
 
 ## 🌐 Connect with me
 
 <p align="center">
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/ariana-wacelinka-652a70208/">
     <img src="https://img.shields.io/badge/LinkedIn-Ariana%20Wacelinka-ff69b4?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
